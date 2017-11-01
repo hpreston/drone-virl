@@ -1,0 +1,8 @@
+.idea/
+.vagrant/
+drone-secrets.yml
+testinput.json
+venv/
+scratch.md
+__pycache__/
+*.pyc
